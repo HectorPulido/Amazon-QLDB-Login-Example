@@ -1,0 +1,2 @@
+flask
+https://github.com/aws-samples/amazon-qldb-dmv-sample-python/archive/master.zip

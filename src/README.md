@@ -1,1 +1,0 @@
-# Amazon-QLDB-Login-Example
